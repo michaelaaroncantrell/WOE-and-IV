@@ -1,0 +1,7 @@
+Plan:
+
+1) Expose parameters, change function names to be meaningful, change variable names to be consistent across functions
+
+2) Add some functionality from run_woe.py. Basically just separating out train and test. Main difficulty is trasnforming a data set according to 'data_vars' output.
+
+3) Don't spend too much time on the above. Then make cool visual example and blog post.
